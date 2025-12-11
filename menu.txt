@@ -1,0 +1,10 @@
+Latte,Smooth latte with milk,400.00,Coffee
+Espresso,Strong and bold espresso,300.00,Coffee
+Mocha,Chocolate-flavored coffee,500.00,Coffee
+Americano,Espresso with hot water,350.00,Coffee
+Chicken Pastry,Spicy chicken-filled pastry,150.00,Pastry
+Fish Bun,Traditional fish bun,100.00,Pastry
+Chocolate Cake,Rich chocolate layered cake,600.00,Dessert
+Butter Cake,Soft and buttery cake,500.00,Dessert
+Sandwich,Chicken and vegetable sandwich,350.00,Snack
+Bread Rolls ,Flaky and soft Rolls,400.0,Snack

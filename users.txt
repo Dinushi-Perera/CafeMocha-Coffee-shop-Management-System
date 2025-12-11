@@ -1,0 +1,5 @@
+admin,password123
+kasun,abc123
+nimali,secure789
+saman,pw4567
+dinuka,myPass1122

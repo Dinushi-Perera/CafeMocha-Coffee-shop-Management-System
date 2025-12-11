@@ -1,0 +1,5 @@
+001,Kavi,Nugegoda,0778889900,
+002,Arosha,Maharagama,0778345600,Espresso:6;Butter Cake:4
+003,Nayana,Battaramulla,0723459900,Chicken Pastry:1;Mocha:2
+004,Hansini,Pannipitiya,0778886789,Cappuccino:7;Sandwich:7
+
